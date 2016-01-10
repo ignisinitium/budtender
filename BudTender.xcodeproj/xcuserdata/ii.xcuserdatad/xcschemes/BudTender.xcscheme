@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "09A7B9A81C4175FC006E1C69"
-               BuildableName = "BudTender.app"
-               BlueprintName = "BudTender"
+               BuildableName = "c   .app"
+               BlueprintName = "c   "
                ReferencedContainer = "container:BudTender.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "09A7B9A81C4175FC006E1C69"
-            BuildableName = "BudTender.app"
-            BlueprintName = "BudTender"
+            BuildableName = "c   .app"
+            BlueprintName = "c   "
             ReferencedContainer = "container:BudTender.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "09A7B9A81C4175FC006E1C69"
-            BuildableName = "BudTender.app"
-            BlueprintName = "BudTender"
+            BuildableName = "c   .app"
+            BlueprintName = "c   "
             ReferencedContainer = "container:BudTender.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "09A7B9A81C4175FC006E1C69"
-            BuildableName = "BudTender.app"
-            BlueprintName = "BudTender"
+            BuildableName = "c   .app"
+            BlueprintName = "c   "
             ReferencedContainer = "container:BudTender.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
